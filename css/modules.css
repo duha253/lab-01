@@ -1,37 +1,137 @@
+@media only screen and (min-width: 960px) {
+    /* styles for browsers larger than 960px; */
+    .a{
+        background-color: rgb(150, 73, 73);
+    }
+    .b{
+        background-color: rgb(94, 197, 163);
+    }
+    .c{
+        background-color: rgb(223, 85, 119);
+    
+    }
+    .d{
+        background-color: rgb(76, 65, 138);
+    
+    }
+    #e{
+        background-color: rgb(107, 218, 131);
+    }
+    #f{
+        background-color: rgb(59, 69, 212);
+    }
+    #g{
+        background-color: rgb(189, 81, 216);
+    }
+    #h{
+        background-color: rgb(204, 218, 83);
+    }
+    .i{
+        background-color: rgb(180, 89, 89);
+    }
+
+
+
 @media (min-width:768px) and (max-width:960px) {
-    aside {
+    .a{
+        background-color: rgb(150, 73, 73);
+    }
+    .b{
+        background-color: rgb(94, 197, 163);
+    }
+    .c{
+        background-color: rgb(223, 85, 119);
+    
+    }
+    .d{
+        background-color: rgb(76, 65, 138);
+    
+    }
+    #e{
+        background-color: rgb(107, 218, 131);
+    }
+    #f{
+        background-color: rgb(59, 69, 212);
+    }
+    #g{
+        background-color: rgb(189, 81, 216);
+    }
+    #h{
+        background-color: rgb(204, 218, 83);
+    }
+    .i{
+        background-color: rgb(180, 89, 89);
+    }
+    
+    
+    
+    
+    
+    /*aside {
         background-color: #eee;
         border: 1px solid;
         text-align: center;
         float: left;
         /* width: 200px; */
-        width: 20%;
+        /*width: 20%;
         height: 600px;
     }
     #divC {
         float: left;
         /* width: 380px; */
-        width: 40%;
+        /*width: 40%;
         height: 200px;
     }
     #divD {
         float: left;
         /* width: 380px; */
-        width: 40%;
+        /*width: 40%;
         height: 200px;
     }
     .letterefgh {
         float: left;
         /* width: 190px; */
-        width: 20%;
+       /* width: 20%;
         height: 250px;
     }
-}
+}*/
 
 
 
 @media (min-width:480px) and (max-width:767px) {
-    aside {
+    .a{
+        background-color: rgb(150, 73, 73);
+    }
+    .b{
+        background-color: rgb(94, 197, 163);
+    }
+    .c{
+        background-color: rgb(223, 85, 119);
+    
+    }
+    .d{
+        background-color: rgb(76, 65, 138);
+    
+    }
+    #e{
+        background-color: rgb(107, 218, 131);
+    }
+    #f{
+        background-color: rgb(59, 69, 212);
+    }
+    #g{
+        background-color: rgb(189, 81, 216);
+    }
+    #h{
+        background-color: rgb(204, 218, 83);
+    }
+    .i{
+        background-color: rgb(180, 89, 89);
+    }
+    
+    
+    
+    /*aside {
         background-color: #eee;
         border: 1px solid;
         text-align: center;
@@ -62,4 +162,4 @@
     .clear {
         clear: both;
     }
-}
+}*/
